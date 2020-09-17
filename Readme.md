@@ -1,6 +1,6 @@
 ## Model for Backend Project with Node, TypeScript and TypeORM
 
-First - Uncomment the line .env line in the file .gitignore, this is to development
+First - Rename .env-example file to .env
 
 Second - Rename Field Name in package.json and choice pg or mysql (default mysql):
 `"pg": "^8.2.1",` or `"mysql": "^2.18.1"`
